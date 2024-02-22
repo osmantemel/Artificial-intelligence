@@ -95,3 +95,5 @@ Makine öğrenmimi Süreci :
         Eğitilen model, test verileri üzerinde değerlendirilir.
         Modelin performansı ölçülür ve hata analizi yapılır.
         Modelin genelleme yeteneği değerlendirilir.
+
+## Apache Spark ve Hadoop
