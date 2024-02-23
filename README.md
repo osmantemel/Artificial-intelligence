@@ -1,0 +1,1 @@
+## Basic Exercises on Machine Learning and Deep Learning | Makine Öğrenimi ve Derin Öğrenme İle ilgili Temel Alıştırmalar 
